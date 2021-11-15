@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fialesto
-- 👀 I’m interested in Node JS and some javascript beckends
+- 👀 I’m interested in Node JS and some javascript backends
 - 🌱 I’m just student.
 
 <!---
